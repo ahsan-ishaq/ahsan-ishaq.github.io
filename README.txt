@@ -1,1 +1,0 @@
-Logo file is logo.svg. Keep this images folder when uploading to GitHub.
